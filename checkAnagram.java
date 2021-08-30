@@ -1,3 +1,5 @@
+import java.util.*
+
 class Main {
 
     static boolean areAnagram(char[] str1, char[] str2){
