@@ -1,3 +1,5 @@
+import java.util.*
+
 public class Main {
     
     static void separate(Integer arr[], int n)
