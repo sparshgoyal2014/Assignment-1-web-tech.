@@ -1,3 +1,6 @@
+
+imprort java.util.*
+
 class Main {
      
     static int countFreq(String pat, String txt) {       
